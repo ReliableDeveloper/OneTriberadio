@@ -1,0 +1,33 @@
+PODS:
+  - Bolts (1.1.3)
+  - Facebook-iOS-SDK (3.23.0):
+    - Bolts (~> 1.0)
+  - googleplus-ios-sdk (1.7.1)
+  - Parse (1.6.3):
+    - Bolts (~> 1.1)
+  - ParseFacebookUtils (1.6.3):
+    - Facebook-iOS-SDK (~> 3.20)
+    - Parse (~> 1.6.3)
+  - ParseUI (1.1.0):
+    - Parse (~> 1.6)
+    - ParseFacebookUtils (~> 1.6)
+  - Pushwoosh (2.9.4)
+
+DEPENDENCIES:
+  - Facebook-iOS-SDK (~> 3.23.0)
+  - googleplus-ios-sdk (~> 1.7.1)
+  - Parse (~> 1.6.2)
+  - ParseFacebookUtils
+  - ParseUI (~> 1.1.0)
+  - Pushwoosh (~> 2.9.4)
+
+SPEC CHECKSUMS:
+  Bolts: 3db0a875235e0c9042b013af13af0f00f79b102c
+  Facebook-iOS-SDK: 3d65f685348b789e46a9aacf92bfa85b60b63755
+  googleplus-ios-sdk: b0f6cd8aa29c51d0048cace8dc3bd8f4ae0806bb
+  Parse: f725f76ef200c5127420690fc6882e57c3813923
+  ParseFacebookUtils: bb14e63862f920cc3f3864b0e373d6771b765255
+  ParseUI: 00c4c39aab3944d88758b55416581650caa37f89
+  Pushwoosh: 2148b7450b1287c7c1be798d619562e84e47d0d0
+
+COCOAPODS: 0.35.0

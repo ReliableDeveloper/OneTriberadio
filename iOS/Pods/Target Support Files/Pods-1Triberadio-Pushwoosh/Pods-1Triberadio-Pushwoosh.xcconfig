@@ -1,0 +1,2 @@
+PODS__TRIBERADIO_PUSHWOOSH_FRAMEWORK_SEARCH_PATHS = "$(PODS_ROOT)/Pushwoosh/Framework"
+PODS__TRIBERADIO_PUSHWOOSH_OTHER_LDFLAGS = -ObjC -framework "CoreLocation" -framework "Pushwoosh" -framework "Security" -framework "StoreKit"

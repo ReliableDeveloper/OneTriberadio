@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Data</key>
+	<array>
+		<dict>
+			<key>Image</key>
+			<string>HomeMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Home</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>RadioMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Listen Now</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>TrendingMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Trending</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>PlaylistMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Playlists</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>PodcastMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Podcast</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>VideosMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Videos</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>ComedyMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Comedy</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>NollywoodMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Nollywood</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>PhotosMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Photos</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>SocialMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Social</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>FacebookMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Facebook</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>TwitterMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Twitter</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>ExitAppMenuImg.png</string>
+			<key>MenuLabel</key>
+			<string>Exit App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
