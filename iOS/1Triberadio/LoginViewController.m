@@ -119,7 +119,7 @@ static NSString * const kClientId = @"903878062522-0d9bmk92lmqcbcmht7jevh54cuos8
         [twitterBtn setBackgroundImage:[UIImage imageNamed:@"twitter.png"] forState:UIControlStateNormal];
     }
     
-    [signInButton setBackgroundImage:[UIImage imageNamed:@"google.png"] forState:UIControlStateNormal];
+    [signInButton setImage:[UIImage imageNamed:@"google.png"] forState:UIControlStateNormal];
     //GoogleSign
     GPPSignIn *signIn = [GPPSignIn sharedInstance];
     signIn.shouldFetchGooglePlusUser = YES;
