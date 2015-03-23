@@ -149,17 +149,17 @@ static NSString * const kClientId = @"903878062522-0d9bmk92lmqcbcmht7jevh54cuos8
     }
 }
 
-- (void)viewDidAppear:(BOOL)animated {
-    [super viewDidAppear:animated];
-    
-    if ([SCTwitter isSessionValid] || [[NSUserDefaults standardUserDefaults] boolForKey:@"remember"]) {
-        if ([SCTwitter isSessionValid]) {
-            [self onLoginWithTwitter];
-        } else {
-            [self onLoginButton:nil];
-        }
-    }
-}
+//- (void)viewDidAppear:(BOOL)animated {
+//    [super viewDidAppear:animated];
+//    
+//    if ([SCTwitter isSessionValid] || [[NSUserDefaults standardUserDefaults] boolForKey:@"remember"]) {
+//        if ([SCTwitter isSessionValid]) {
+//            [self onLoginWithTwitter];
+//        } else {
+//            [self onLoginButton:nil];
+//        }
+//    }
+//}
 
 - (void) presentMenuViewController{
     [self presentViewController:mainMenuViewController animated:NO completion:nil];
